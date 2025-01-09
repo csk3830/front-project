@@ -50,6 +50,8 @@
 <br>
 
 ## 실행 스크린샷
+![image](https://github.com/user-attachments/assets/8af21f87-2924-406a-83fa-8cece2c49ead)
+![image](https://github.com/user-attachments/assets/af46ee17-24f1-4dac-9781-92278d2a0e5f)
 
 
 
