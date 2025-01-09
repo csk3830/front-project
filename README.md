@@ -56,8 +56,23 @@
 
 ![image](https://github.com/user-attachments/assets/af46ee17-24f1-4dac-9781-92278d2a0e5f)
 
+<br>
 
+![image](https://github.com/user-attachments/assets/296f60e6-c606-4a48-aaea-21d14023fd33)
 
+<br>
+
+![image](https://github.com/user-attachments/assets/1a9aa736-3407-4df8-b9ea-a67706e49796)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/dc430023-3dac-4c3b-b92b-e7644b712cdb)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/60a98f32-ebc4-44b8-8b36-2840c07ad1ef)
+
+<br>
 
 ## 💡 프로젝트 후기
 처음엔 "이거 몇 페이지 안 되니까 금방 끝나겠지" 했는데, 막상 해보니까 시간이 엄청 부족하더라고요. 특히 CSS에서 뜻대로 안돼서 애 먹었어요… 😅
